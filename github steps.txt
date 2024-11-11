@@ -1,0 +1,10 @@
+  114  git clone https://github.com/sarafaqih/practice.git
+  115  li
+  116  ls
+  117  cd practice
+  118  ls
+  119  touch second-file.txt
+  120  ls
+  121  git add second-file.txt
+  122  git commit -m "add second-file.txt"
+  123  git push origin main
